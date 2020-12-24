@@ -1,1 +1,3 @@
-# React_countor
+# React_counter
+
+My first react project!
